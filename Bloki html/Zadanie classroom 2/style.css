@@ -1,0 +1,13 @@
+nav {
+    width: 30%;
+    height: 400px;
+    background-color: green;
+    float: left;
+}
+
+main {
+    width: 70%;
+    height: 400px;
+    background-color: beige;
+    float: left;
+}

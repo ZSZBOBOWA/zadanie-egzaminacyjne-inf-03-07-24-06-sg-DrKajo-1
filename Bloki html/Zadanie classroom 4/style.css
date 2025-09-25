@@ -1,0 +1,22 @@
+header {
+    height: 100px;
+    background-color: purple;
+}
+#kolumna1 {
+    height: 250px;
+    width: 33%;
+    background-color: pink;
+    float: left;
+}
+#kolumna2 {
+    height: 250px;
+    width: 33%;
+    background-color: lightgreen;
+    float: left;
+}
+#kolumna3 {
+    height: 250px;
+    width: 33%;
+    background-color: lightblue;
+    float: left;
+}

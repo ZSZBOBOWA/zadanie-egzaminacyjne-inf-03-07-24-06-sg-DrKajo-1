@@ -1,0 +1,19 @@
+header {
+    height: 100px;
+    background-color: lightblue;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+main {
+    left: 0;
+    height: 300px;
+    width: 70%;
+    background-color: lightgray;
+}
+footer {
+    right: 0;
+    left: 0;
+    height: 80px;
+    background-color: black;
+}
