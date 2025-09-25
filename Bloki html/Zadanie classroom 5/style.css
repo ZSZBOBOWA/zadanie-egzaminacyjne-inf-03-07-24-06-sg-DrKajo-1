@@ -1,0 +1,27 @@
+Header {
+    height: 80px;
+    background-color: darkred;
+}
+nav {
+    width: 25%;
+    float: left;
+    height: 400px;
+    background-color: yellow;
+}
+main {
+    float: left;
+    width: 50%;
+    height: 400px;
+    background-color: white;
+}
+section {
+    float: left;
+    height: 400px;
+    width: 25%;
+    background-color: lightgreen;
+}
+footer {
+    clear: both;
+    height: 60px;
+    background-color: black;
+}
