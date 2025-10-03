@@ -1,0 +1,19 @@
+.kategorie {
+    float: left; 
+    width: 20%;
+    height: 500px;
+    background-color: red;
+}
+.produkty {
+    float: right;
+    width: 78%;
+    height: 500px;
+    background-color: darkred;
+}
+.produkt {
+    float: left;
+    width: 23%;
+    margin: 1%;
+    height: 100px;
+    background-color: brown;
+}

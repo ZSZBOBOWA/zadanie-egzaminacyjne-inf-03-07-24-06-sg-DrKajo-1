@@ -1,0 +1,11 @@
+.blok {
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 200px;
+    width: 48%;
+    float: left;
+    margin: 1px;
+}
+.clearfix {
+    clear: both;
+}
