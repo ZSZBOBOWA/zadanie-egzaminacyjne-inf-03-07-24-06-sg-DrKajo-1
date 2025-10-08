@@ -1,0 +1,35 @@
+header, footer{
+    background-color: sienna;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+}
+nav, section {
+    background-color: navajowhite;
+    width: 15%;
+    height: 700px;
+    float: left;
+}
+main {
+    width: 70%;
+    height: 700px;
+    scroll-behavior: auto;
+    float: left;
+    overflow: scroll;
+}
+footer {
+clear: both
+}
+h1, p {
+    text-align: center;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    height: 346px;
+    width: 520px;
+    margin: 66px;
+}
