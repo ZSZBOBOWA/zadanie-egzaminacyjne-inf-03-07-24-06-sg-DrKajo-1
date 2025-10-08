@@ -1,0 +1,6 @@
+ol {
+    color: #333;
+}
+ol > li {
+        margin-bottom: 15px;
+}

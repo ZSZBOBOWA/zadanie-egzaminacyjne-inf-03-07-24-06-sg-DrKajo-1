@@ -1,0 +1,22 @@
+img {
+    height: 600px;
+    width: 23%;
+    float: left;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+p {
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#zdjęcia {
+    float: left;
+    width: 100%;
+}
+#tekst {
+    width: 100%;
+}

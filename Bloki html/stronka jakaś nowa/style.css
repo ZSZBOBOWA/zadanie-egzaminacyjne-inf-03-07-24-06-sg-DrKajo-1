@@ -1,63 +1,40 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; }
+
 header {
     height: 80px;
     background-color: darkgreen;
-    clear: both;
 }
+
 section {
     height: 600px;
     width: 25%;
     float: left;
     background-color: lightgreen;
 }
+
 main {
     float: left;
     height: 600px;
     background-color: mintcream;
     width: 75%;
+    text-align: center;
 }
+
 footer {
     height: 80px;
     background-color: lightgreen;
     clear: both;
 }
-* {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-h1 {
-    text-align: center;
-    align-self: center;
-}
-#main {
-    color: white;
-    padding-top: 15px;
-    font-size: 40px;
-}
-#section {
-    font-size: 20px;
-}
-p {
-    text-align: center;
-}
-main {
-    align-items: center;
-    align-content: center;
-    text-align: center;
-}
-table {
-    border: 2px, green, solid;
-    margin-left: 90px;
-    border-collapse: collapse;
-}
-Tr, td, th {
-    border: 1px, green, solid;
-    border-radius: 3px;
-    padding: 20px;
-}
-#aktualizacja, #zamowienie {
-    background-color: green;
-    border: 1px, green, solid;
-    color: white;
-}
-img {
-    width: 290px;;
-}
+
+h1 { text-align: center; }
+#main { color: white; padding-top: 15px; font-size: 40px; }
+#section { font-size: 20px; }
+p { text-align: center; }
+
+table { border: 2px solid green; margin-left: 90px; border-collapse: collapse; }
+tr, td, th { border: 1px solid green; border-radius: 3px; padding: 20px; }
+
+#aktualizacja, #zamowienie { background-color: green; border: 1px solid green; color: white; }
+img { width: 290px; }
