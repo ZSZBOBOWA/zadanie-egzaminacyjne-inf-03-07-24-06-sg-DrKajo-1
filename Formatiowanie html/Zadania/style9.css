@@ -1,0 +1,17 @@
+a {
+    padding: 10px;
+    color: white;
+}
+ul {
+    display: inline-block;
+}
+nav {
+    background-color: #333;
+}
+#mail {
+    color: blue;
+}
+
+a:hover {
+    color: #ddd;
+}

@@ -1,0 +1,29 @@
+a {
+    padding: 10px;
+}
+header {
+    text-align: center;
+    clear: both;
+}
+nav {
+    clear: both;
+}
+article {
+    float: left;
+    width: 68%;
+    height: 400px;
+}
+aside {
+    float: right;
+    width: 30%;
+    height: 400px;
+}
+footer {
+    clear: both;
+    text-align: center;
+    padding-top: 190px;
+}
+img {
+    height: 300px;
+    clear: both;
+}

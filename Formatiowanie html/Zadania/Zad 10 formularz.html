@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style10.css">
+</head>
+<body>
+    <h2>Formularz kontaktowy</h2>
+    <main>
+        <form>
+            <label for="imie">Imię i nazwisko:</label><br>
+            <input type="text" required id="imie" name="imie"><br>
+            <label for="mail">Email:</label><br>
+            <input type="email" required id="mail" name="mail"><br>
+            <label for="tel">Telefon</label><br>
+            <input type="tel" id="tel" name="tel"><br>
+            <label for="temat">Temat:</label><br>
+            <select id="temat" name="temat">
+                <option value="">-</option>
+                <option value="opc1">Jakaś opcja</option>
+                <option value="opc2">Inna opcja</option>
+            </select><br>
+            <label for="mess">Wiadomość:</label><br>
+            <textarea id="mess" name="mess"></textarea><br>
+            <label for="zgoda">
+                <input type="checkbox" id="zgoda" name="zgoda" required>
+                Zgoda na przetwarzanie danych
+            </label><br>
+            <button type="submit">Wyślij</button>
+        </form>
+    </main>
+</body>
+</html>

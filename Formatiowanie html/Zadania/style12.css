@@ -1,0 +1,25 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td, tr {
+    border: 1px solid black;
+    padding: 5px;
+}
+img {
+    height: 50px;
+    border-radius: 5px;
+}
+a {
+    background-color: #ff5722;
+    color: white;
+    border: 1px solid black;
+    align-items: center;
+    align-self: center;
+    width: 100%;
+    height: 100%;
+}
+a:hover {
+    background-color: #e64a19;
+}

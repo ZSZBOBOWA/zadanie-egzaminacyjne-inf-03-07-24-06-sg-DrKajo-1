@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+}
+form {
+    max-width: 500px;
+    margin: auto;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#zgoda {
+    margin-bottom: -15px;
+    padding: 0%;
+    margin: 0%;
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    width: 100%;
+}
